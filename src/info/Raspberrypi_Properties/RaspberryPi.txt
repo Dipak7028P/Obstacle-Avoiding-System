@@ -1,0 +1,12 @@
+Raspberrypi Personal Information
+
+Raspberry PI Credential 
+------------------------
+Username : dipak7028p
+Password : 020106 
+
+
+WIFI Credential 
+------------------------
+Username : Dipak7028P
+Password : 123456788
